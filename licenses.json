@@ -7,6 +7,6 @@
   "basicLicenseKey123": {
     "userid": "somehasheduserid123",
     "expires": "2025-12-31 23:59:59",
-    "tier": "basic"
+    "tier": "pro"
   }
 }
