@@ -1,11 +1,11 @@
 {
   "ownerLicense": {
-    "userid": "937810364630974465",
+    "hwid": "937810364630974465",
     "expires": "2078-06-22 06:47:42"
     "tier": "vip"
   },
   "basicLicenseKey123": {
-    "userid": "somehasheduserid123",
+    "hwid": "somehasheduserid123",
     "expires": "2025-12-31 23:59:59",
     "tier": "pro"
   }
